@@ -1,2 +1,2 @@
 # collections_task
- task for collections like list ,arraylist , hashset
+ task for collections like arraylist , list , dictionary, hashset
